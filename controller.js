@@ -13,7 +13,8 @@ function acessar(){
 }
 
 // Função para armazenar os nomes em ARRAY
-var dadosLista = [];
+var dadosLista = []; //Está em branco porque assim cabe mais coisas.
+
 function salvarUser(){
     let nomeUser = document.getElementById('nomeUser').value;
 
@@ -26,5 +27,9 @@ function salvarUser(){
 }
 // Função para criar uma lista de usuários
 function criaLista(){
+    let tabela = document.getElementById('tabela').innerHTML = "<tr><th>Nome Usuário.</th><th>Ações.</th></tr>"; //Código pego no cadastro.html
+    for(let i=0;i <= (dadosLista.length -1);i++){
+        tabela += "<tr><td>" + dadosLista[i] + "</td><td></td></tr>";
+    }
 
 }
