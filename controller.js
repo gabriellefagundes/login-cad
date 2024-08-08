@@ -1,4 +1,4 @@
-// FUNÇÃO PARA VALIDAÇÃO DE ACESSO
+// Função para validar o acesso.
 
 function acessar(){
     let loginEmail = document.getElementById('loginEmail').value;
@@ -12,7 +12,7 @@ function acessar(){
     }
 }
 
-// FUNÇÃO PARA ARMAZENAMENTO DE NOMES EM ARRAY
+// Função para armazenar os nomes em ARRAY
 var dadosLista = [];
 function salvarUser(){
     let nomeUser = document.getElementById('nomeUser').value;
@@ -23,4 +23,8 @@ function salvarUser(){
     }else{
         alert("Favor, informe um nome para cadastro.");
     }
+}
+// Função para criar uma lista de usuários
+function criaLista(){
+
 }
