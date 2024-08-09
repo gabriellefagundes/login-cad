@@ -33,16 +33,26 @@ Esse projeto é composto por 2 páginas, uma contendo a Tela de Login e a outra 
 * JavaScript
 * Live Server (A extensão Live Server permite criar um servidor local através do VSCode. Com ele é cortado a necessidade de sempre que fizer uma alteração no código atualizar o navegador.)
 
+# Fotos projeto.
+
+![](tela.login.png)
+ Essa é a tela inicial, tela de login.
+![](erro.login.png)
+ Mensagem que aparece quando só é preenchido apenas um campo.
+![](tela.cadastro.png)
+ Essa é a tela de cadastro, após ser preenchido todos os campos da tela de login.
+![](nome.errado.png)
+ Essa foto é um exemplo de erro, escrevi meu nome errado (coloquei com 2 A no final) e apertei em salvar.
+![](editar.png)
+ Nessa imagem, temos o meu nome editado, apertei no botão "Editar" (que aparece na foto), assim, deixando meu nome certo.
+![](editado.png)
+ Apertei em salvar, agora sim meu nome está certo, mas não era pra ter salvado meu nome! e agora?
+![](tela.cadastro.png)
+ Problema solucionado, botão "Excluir" está funcionando maravilhosamente bem.
+
 ## Autores ✍🏻
 | [<img loading="eu.jpeg" src="eu.jpeg" width=115><br><sub>Larissa Gabrielle Fagundes Andrade.</sub>](https://github.com/gabriellefagundes) |
 | :---: 
 ## Meu LinkedIn:
 |  [<img loading="linkedin.png" src="linkedin.png" width=115><br><sub>LinkedIn.</sub>](https://www.linkedin.com/in/larissa-gabrielle-a74a272b3/)
 | :---: 
-
-
-
-
-
-
-FONTE https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/let : let - JavaScript
