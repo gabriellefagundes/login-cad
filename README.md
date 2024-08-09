@@ -9,11 +9,12 @@ Nesse projeto, foi criado uma Tela de Login e uma tela de Cadastro de Usuários 
 Esse projeto é composto por 2 páginas, uma contendo a Tela de Login e a outra a tela de Cadastro de Usuários. Neste README inclui o uso de fotos pois assim fica de uma forma mais fácil de ser entendido, não sendo uma leitura muito complexa e o site tornando-se bem fácil de ser utilizado.
 
 ## Código JavaScript da Tela de Login.
-let
-loginSenha
-document.getElementById
-value
-if & else
+* ``let`` : Declara uma variável local na extensão do bloco atual, opcionalmente iniciando-a com um valor.
+* ``loginSenha`` : ``loginSenha`` e ``loginEmail`` são id´s (identificadores) que utilizo para chamar no js, assim, consigo editar o código. 
+* ``document.getElementById`` : Retorna a referência do elemento através do seu ID.
+* ``value`` : ``value`` é o valor do input.
+* ``if & else`` : A condicional if é uma estrutura que executa a afirmação, dentro do bloco, se determinada condição for verdadeira. Se for falsa, executa as afirmações dentro de else.
+* ``window.location.href`` : O window.location.href é usado para redirecionar o usuário para uma nova página após a conclusão bem-sucedida de um envio de vídeo.
 
 
 
@@ -98,3 +99,10 @@ DUAS OBSERVAÇÕES IMPORTANTES: Esse CPF do print é falso, usei um gerador de C
 ## Meu LinkedIn:
 |  [<img loading="linkedin.png" src="linkedin.png" width=115><br><sub>LinkedIn.</sub>](https://www.linkedin.com/in/larissa-gabrielle-a74a272b3/)
 | :---: 
+
+
+
+
+
+
+FONTE https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/let : let - JavaScript
