@@ -9,6 +9,11 @@ Nesse projeto, foi criado uma Tela de Login e uma tela de Cadastro de Usuários 
 Esse projeto é composto por 2 páginas, uma contendo a Tela de Login e a outra a tela de Cadastro de Usuários. Neste README inclui o uso de fotos pois assim fica de uma forma mais fácil de ser entendido, não sendo uma leitura muito complexa e o site tornando-se bem fácil de ser utilizado.
 
 ## Código JavaScript da Tela de Login.
+let
+loginSenha
+document.getElementById
+value
+if & else
 
 
 
@@ -44,15 +49,6 @@ Esse projeto é composto por 2 páginas, uma contendo a Tela de Login e a outra 
 
 
 
-* ``element``: É uma referência a um objeto ``Element``, ou null se um elemento com o ID especificado não estiver contido neste documento.
-* ``id``: É uma string que diferência maiúsculas e minúsculas representando o ID único do elemento sendo procurado.
-* ``bubmit``: O evento submit é disparado quando é feita a submissão de um `` <form> ``
-* ``preventDefault``: Cancela o evento se for cancelável, sem parar a propagação do mesmo.
-* ``const``: A declaração ``const`` cria uma variável cujo o valor é fixo, ou seja, uma constante somente leitura.
-* ``value``: Tem a finalidade de fazer com que o comando onde ele é usado, considere o valor do parâmetro passado e não o próprio parâmetro.
-* ``textContent``: A propriedade ``textContent`` da interface ``Node`` representa o conteúdo do texto de um nó e de seus descendentes.
-* ``replace``: O ``replace()`` método de ``String`` valores retorna uma nova string com uma, algumas ou todas as correspondências de a ``pattern`` substituídas por a ``replacement``.
-* ``length``: Cancela o evento se for cancelável, sem parar a propagação do mesmo.
 
 ## Código JavaScript do E-mail
 * ``document.forms[0].email.value == ""``: Verifica se o campo de e-mail está vazio.
