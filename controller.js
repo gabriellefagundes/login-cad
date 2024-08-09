@@ -7,7 +7,7 @@ function acessar(){
     if(!loginEmail || !loginSenha){
         alert("Favor preencher todos os campos.")
     }else{
-        // alert("Campos preenchidos com sucesso!");
+        // alert("Campos preenchidos com sucesso!");    linha criada para teste apenas.
         window.location.href = 'cadastro.html';
     }
 }
@@ -20,7 +20,7 @@ function salvarUser(){
 
     if(nomeUser){
         dadosLista.push(nomeUser);
-        //console.log(dadosLista); Transformei em comentário porque não será mais necessário. Criado para teste.
+        //console.log(dadosLista);   Transformei em comentário porque não será mais necessário. Criado para teste.
         criaLista();
         document.getElementById('nomeUser').value = ""; //Linha criada para o campo "Nome" ficar em branco após apertar o botão "Salvar".
     }else{
@@ -31,7 +31,7 @@ function salvarUser(){
 function criaLista(){
     let tabela = document.getElementById('tabela').innerHTML = "<tr><th>Nome Usuário.</th><th>Ações.</th></tr>"; //Código pego no cadastro.html
     for(let i=0;i <= (dadosLista.length -1);i++){
-        tabela += "<tr><td>" + dadosLista[i] + "</td><td><button type='button' onclick='editar(parentNode.parentNode.rowIndex)'>Editar</button><button type='button' onclick='excluir(parentNode.parentNode.rowIndex)'>Excluir</button></td></tr>"; //Linha criada para o botão "Editar" funcionar.
+        tabela += "<tr><td>" + dadosLista[i] + "</td><td><button type='button' onclick='editar(parentNode.parentNode.rowIndex)'>Editar</button><button type='button' onclick='excluir(parentNode.parentNode.rowIndex)'>Excluir</button></td></tr>"; //Linha criada para o botão "Editar" e para o botão "Excluir" funcionar.
         document.getElementById('tabela').innerHTML = tabela;
     }
 
