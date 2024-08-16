@@ -35,19 +35,19 @@ Esse projeto é composto por 2 páginas, uma contendo a Tela de Login e a outra 
 
 # Fotos projeto.
 
-![](tela.login.png)  
+![](fotos/tela.login.png)  
 Essa é a tela inicial, tela de login.  
-![](erro.login.png)  
+![](fotos/erro.login.png)  
 Mensagem que aparece quando só é preenchido apenas um campo.
-![](tela.cadastro.png)  
+![](fotos/tela.cadastro.png)  
 Essa é a tela de cadastro, após ser preenchido todos os campos da tela de login.
-![](nome.errado.png)  
+![](fotos/nome.errado.png)  
 Essa foto é um exemplo de erro, escrevi meu nome errado (coloquei com 2 A no final) e apertei em salvar.
-![](editar.png)  
+![](fotos/editar.png)  
 Nessa imagem, temos o meu nome editado, apertei no botão "Editar" (que aparece na foto), assim, deixando meu nome certo.
-![](editado.png)  
+![](fotos/editado.png)  
 Apertei em salvar, agora sim meu nome está certo, mas não era pra ter salvado meu nome! e agora?
-![](tela.cadastro.png)  
+![](fotos/tela.cadastro.png)  
 Problema solucionado, botão "Excluir" está funcionando maravilhosamente bem.
 
 ## Autores ✍🏻
