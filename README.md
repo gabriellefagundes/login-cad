@@ -6,7 +6,7 @@ Nesse projeto, foi criado uma Tela de Login e uma tela de Cadastro de Usuários 
 
 ## Sobre o projeto 📋 
 
-Esse projeto é composto por 2 páginas, uma contendo a Tela de Login e a outra a tela de Cadastro de Usuários. Neste README inclui o uso de fotos pois assim fica de uma forma mais fácil de ser entendido, não sendo uma leitura muito complexa e o site tornando-se bem fácil de ser utilizado.
+Esse projeto é composto por 2 páginas, uma contendo a Tela de Login e a outra a tela de Cadastro de Usuários. Neste README inclui o uso de fotos pois assim fica de uma forma mais fácil de ser entendido, não sendo uma leitura muito complexa e o site tornando-se bem fácil de ser utilizado. Após isso, adicionei o campo E-mail.
 
 ## Código JavaScript da Tela de Login.
 * ``let`` : Declara uma variável local na extensão do bloco atual, opcionalmente iniciando-a com um valor.
@@ -39,15 +39,15 @@ Esse projeto é composto por 2 páginas, uma contendo a Tela de Login e a outra 
 Essa é a tela inicial, tela de login.  
 ![](fotos/erro.login.png)  
 Mensagem que aparece quando só é preenchido apenas um campo.
-![](fotos/tela.cadastro.png)  
+<!-- ![](fotos/tela.cadastro.png)  MUDAR FOTO  -->
 Essa é a tela de cadastro, após ser preenchido todos os campos da tela de login.
-![](fotos/nome.errado.png)  
+<!-- ![](fotos/nome.errado.png)  MUDAR FOTO -->
 Essa foto é um exemplo de erro, escrevi meu nome errado (coloquei com 2 A no final) e apertei em salvar.
-![](fotos/editar.png)  
+<!-- ![](fotos/editar.png)  MUDAR FOTO -->
 Nessa imagem, temos o meu nome editado, apertei no botão "Editar" (que aparece na foto), assim, deixando meu nome certo.
-![](fotos/editado.png)  
+<!-- ![](fotos/editado.png)  MUDAR FOTO -->
 Apertei em salvar, agora sim meu nome está certo, mas não era pra ter salvado meu nome! e agora?
-![](fotos/tela.cadastro.png)  
+<!-- ![](fotos/tela.cadastro.png)  MUDAR FOTO -->
 Problema solucionado, botão "Excluir" está funcionando maravilhosamente bem.
 
 ## Autores ✍🏻
